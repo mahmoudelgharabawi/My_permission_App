@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name2">My PermApp</string>
+    <string name="permission_description">This is the Permission</string>
+</resources>
